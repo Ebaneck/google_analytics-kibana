@@ -7,7 +7,7 @@ from datetime import datetime
 from datetime import timedelta
 
 SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
-KEY_FILE_LOCATION = 'key.json'
+KEY_FILE_LOCATION = '/home/debian/google_analytics-kibana/key.json'
 VIEW_ID = '147428382'
 
 
